@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sum-Two-Numbers/static/css/main.897c9193.css",
+    "main.js": "/Sum-Two-Numbers/static/js/main.e431e4a0.js",
+    "index.html": "/Sum-Two-Numbers/index.html",
+    "main.897c9193.css.map": "/Sum-Two-Numbers/static/css/main.897c9193.css.map",
+    "main.e431e4a0.js.map": "/Sum-Two-Numbers/static/js/main.e431e4a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.897c9193.css",
+    "static/js/main.e431e4a0.js"
+  ]
+}
