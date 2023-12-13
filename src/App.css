@@ -36,3 +36,53 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+/* Css Configurations */
+/* src/App.css */
+
+
+.App {
+  text-align: center;
+  padding: 40px;
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(80,80,152,1) 0%, rgba(219,249,255,1) 100%);
+}
+
+h1 {
+  color: #333;
+}
+
+.input-container {
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 8px;
+  margin-right: 10px;
+}
+
+button {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+.result {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #333;
+}
